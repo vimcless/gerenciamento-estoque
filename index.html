@@ -9,12 +9,21 @@
   <script defer src="./js/pages/login.js"></script>
   <script defer src="./js/pages/pagina01.js"></script>
   <script defer src="./js/pages/categories.js"></script>
+  <script defer src="./js/pages/branches.js"></script>
+  <script defer src="./js/pages/addbranch.js"></script>
   <script defer src="./js/main.js"></script>
 </head>
 <body class="container">
   <nav class="mt-3">
     <button data-action="menu" data-content="pagina01" class="btn btn-outline-dark">Página 01</button>
     <button data-action="menu" data-content="categories" class="btn btn-outline-dark">Categorias</button>
+    <div class="dropdown d-inline">
+      <button data-bs-toggle="dropdown" class="dropdown-toggle btn btn-outline-dark">Filiais</button>
+      <ul class="dropdown-menu">
+        <li data-action="menu" data-content="addbranch" class="dropdown-item">Adicionar</li>
+        <li data-action="menu" data-content="branches" class="dropdown-item">Listar</li>
+      </ul>
+    </div>
     <button data-action="menu" data-content="login" class="btn btn-outline-danger">Sair</button>
   </nav>
   <hr>
