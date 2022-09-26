@@ -1,0 +1,42 @@
+{
+	"filiais":[
+	{"id": 1,
+	"nome": "Ale importados"
+},	
+	{"id": 2,
+	"nome": "Ale variedades"}
+	],
+
+	"categorias": [
+		{
+			"id": 1,
+		"nome": "Informática",
+		"descricao": "Produtos de Informática",
+		"foto": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fblog.oderco.com.br%2Fwp-content%2Fuploads%2F2017%2F12%2Fdistribuidora-de-produtos-de-informatica-1000x576.jpg&f=1&nofb=1"
+	},
+		{
+			"id": 2,
+		"nome": "Equipamentos de som",
+		"descricao": "equipamentos de som em geral",
+		"foto": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdeltaimport.com.br%2Fwp-content%2Fuploads%2F2021%2F02%2F1_083034100_1611171338_TRC_5515_frente.jpg&f=1&nofb=1"
+	},
+		{
+			"id": 3,
+		"nome": "Equipamentos de imagem",
+		"descricao": "equipamentos de imagem em geral",
+		"foto": "https://cercartelas.com.br/wp-content/uploads/2020/06/tela_alambrado_galvanizada_04.jpg"
+	},
+		{
+			"id": 4,
+		"nome": "Equipamentos de escritorio",
+		"descricao": "equipamentos de escritorio em geral",
+		"foto": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.elo7.com.br%2Fproduct%2Fzoom%2F3415FFF%2Fcartao-de-agradecimento-para-lojas-vale-presente.jpg&f=1&nofb=1"
+	},
+		{
+			"id": 5,
+		"nome": "Equipamentos de carro",
+		"descricao": "equipamentos de carro em geral",
+		"foto": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPkXvz9fOSwE%2Fmaxresdefault.jpg&f=1&nofb=1"
+	}
+	]
+}
